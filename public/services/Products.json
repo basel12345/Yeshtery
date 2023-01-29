@@ -1,0 +1,160 @@
+{
+    "Produscts": [
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 583.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "30%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 1
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 575.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "70%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 2
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 575.png",
+            "price": "9,999 LE",
+            "logo": "/images/adidas1.png",
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 3
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 583.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "70%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 4
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 575.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "70%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 5
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 583.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "30%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 6
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 575.png",
+            "price": "9,999 LE",
+            "logo": "/images/adidas1.png",
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 7
+        },
+        {
+            "form": "Egypt",
+            "to": "USA",
+            "in": "5",
+            "image": "/images/Group 583.png",
+            "price": "9,999 LE",
+            "sale": "9,999 LE",
+            "discount": "70%",
+            "logo": "/images/adidas1.png",
+            "rating": 4,
+            "descripation": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+            "id": 8
+        }
+    ],
+    "Product": [
+        {
+            "Product": [
+                {
+                    "image": "/images/1.png"
+                },
+                {
+                    "image": "/images/2.png"
+                },
+                {
+                    "image": "/images/3.png"
+                },
+                {
+                    "image": "/images/4.png"
+                },
+                {
+                    "image": "/images/1.png"
+                },
+                {
+                    "image": "/images/2.png"
+                },
+                {
+                    "image": "/images/3.png"
+                },
+                {
+                    "image": "/images/4.png"
+                }
+            ],
+            "Color": [
+                {
+                    "image": "/images/color1.png"
+                },
+                {
+                    "image": "/images/color1.png"
+                }
+            ],
+            "Sizes": [
+                {
+                    "name": "Small"
+                },
+                {
+                    "name": "Medium"
+                },
+                {
+                    "name": "Large"
+                },
+                {
+                    "name": "X Large"
+                },
+                {
+                    "name": "XX Large"
+                }
+            ],
+            "price": "9.999",
+            "currency": "LE",
+            "discount": "30% Off"
+        }
+    ]
+}

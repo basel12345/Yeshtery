@@ -1,0 +1,66 @@
+.footer {
+    background-color: #3C3C3B;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    .lorem {
+        text-align: left;
+        color: #FFFFFF;
+        font-size: 16px;
+        width: 494px;
+        margin-top: 28px;
+    }
+
+    .subscribeTitle {
+        text-align: left;
+        color: #FFFFFF;
+        font-size: 18px;
+    }
+
+    input {
+        &::placeholder {
+            color: #542E90;
+            font-size: 12px;
+        }
+
+        &[type=email] {
+            width: 576px;
+            height: 48px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            border-radius: 24px;
+            border: none;
+            padding: 0 23px;
+        }
+    }
+
+    .buttonFooter {
+        background-color: var(--primary-color);
+        border-radius: 19px;
+        width: 120px;
+        height: 38px;
+        font-size: 10px;
+        border: none;
+        position: absolute;
+        right: 64px;
+        top: 5px;
+        margin-left: 9px;
+    }
+
+    .linkFooter a {
+        display: block;
+        color: #FFFFFF !important;
+        font-size: 16px;
+        margin-top: 5px;
+
+        img {
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+    }
+
+    .payment {
+        img {
+            margin-right: 10px;
+        }
+    }
+}

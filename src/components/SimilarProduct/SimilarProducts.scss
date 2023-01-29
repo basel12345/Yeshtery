@@ -1,0 +1,65 @@
+.similar {
+    margin-bottom: 65px;
+
+    h2 {
+        font-size: 28px;
+        color: var(--secondary-color);
+    }
+
+    .line {
+        font-size: 22px;
+        color: #575756;
+        margin-bottom: 25px;
+    }
+
+    .scroll {
+        padding-bottom: 31px;
+
+        .pic {
+            width: 278px;
+            margin-top: 8px;
+        }
+
+        .desc {
+            text-align: left;
+            letter-spacing: 0px;
+            color: #1D1D1B;
+            opacity: 1;
+            font-size: 14px;
+            font-weight: 800;
+            width: 236px;
+            margin-left: 16px;
+            margin-top: 10px;
+        }
+
+        .cost {
+            font-size: 30px;
+            text-align: left;
+            letter-spacing: 0px;
+            color: var(--secondary-color);
+            font-weight: bold;
+        }
+
+        &::-webkit-scrollbar {
+            width: 20px;
+            height: 5px;
+        }
+
+        &::-webkit-scrollbar-track {
+            border: 3px solid #D9D9D9;
+            opacity: 1;
+            height: 0;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            border: 3px solid #542E90;
+            background-color: #542E90;
+            height: 0;
+        }
+
+        &::-webkit-scrollbar-thumb:hover {
+            background: #542E90;
+            height: 0;
+        }
+    }
+}
